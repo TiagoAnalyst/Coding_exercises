@@ -1,0 +1,90 @@
+class_name,category_name
+aluminium_aerosol,Valuable – Aluminium
+aluminium_can,Valuable – Aluminium
+aluminium_other,Valuable – Aluminium
+battery,Residue
+book,Residue
+bottlecap,Residue
+card_corrugated,Valuable – Cardboard
+card_greyboard,Valuable – Cardboard
+coffeecuplid,Residue
+composite_cup_drink,Residue
+composite_cup_food,Residue
+container_clear,Valuable – PET
+container_fragment_black,Residue
+container_fragment_coloured,Residue
+container_fragment_white,Residue
+container_lid_black,Residue
+container_lid_coloured,Valuable – Plastic
+container_lid_white,Valuable – Plastic
+container_pot_black,Residue
+container_pot_coloured_food,Valuable – Plastic
+container_pot_coloured_nonfood,Valuable – Plastic
+container_pot_white_circle,Valuable – Plastic
+container_pot_white_rectangle,Valuable – Plastic
+container_tray_black,Residue
+container_tray_coloured_matte,Valuable – Plastic
+container_tray_coloured_shiny,Valuable – Plastic
+container_tray_white,Valuable – Plastic
+container_tub_black,Residue
+container_tub_coloured,Valuable – Plastic
+container_tub_white_dairyspread,Valuable – Plastic
+container_tub_white_other,Valuable – Plastic
+fabric,Residue
+facemask,Residue
+fibre_mixed,Residue
+film_black,Residue
+film_bottlelabel,Residue
+film_bubblewrap,Residue
+film_clear,Residue
+film_clear_printed,Residue
+film_coloured,Residue
+film_coloured_printed,Residue
+film_filledbag,Residue
+film_metallised,Residue
+fine,Residue
+generalwaste,Residue
+glass_bottle_brown,Residue
+glass_bottle_clear,Residue
+glass_bottle_green,Residue
+glass_cullet_brown,Residue
+glass_cullet_clear,Residue
+glass_cullet_green,Residue
+glass_other,Residue
+hdpe_bottle_coloured_food,Valuable – HDPE
+hdpe_bottle_coloured_nonfood,Valuable – HDPE
+hdpe_bottle_natural_food,Valuable – HDPE
+hdpe_bottle_natural_nonfood,Valuable – HDPE
+magazine,Valuable – Paper
+metal_other,Valuable – Ferrous
+newspaper_complete,Valuable – Paper
+newspaper_sheet,Valuable – Paper
+paper_glossygraphic_coloured,Valuable – Paper
+paper_kraft_brown,Residue
+paper_office_coloured,Valuable – Paper
+paper_office_white,Valuable – Paper
+paper_other,Residue
+paper_tissue_blue,Residue
+paper_tissue_white,Residue
+pet_bottle_brown_food,Valuable – PET
+pet_bottle_clear_food,Valuable – PET
+pet_bottle_clear_food_covered,Valuable – PET
+pet_bottle_clear_nonfood,Valuable – PET
+pet_bottle_clear_nonfood_covered,Valuable – PET
+pet_bottle_coloured_nonfood,Valuable – PET
+pet_bottle_darkblue_food,Valuable – PET
+pet_bottle_green_food,Valuable – PET
+pet_bottle_lightblue_food,Valuable – PET
+pet_bottle_othercolour_food,Valuable – PET
+pet_bottle_white_food,Valuable – PET
+plastic_bottle_black,Residue
+plastic_bottle_coloured_yoghurt,Residue
+plastic_bottle_natural_yoghurt,Residue
+plastic_other,Residue
+plastic_other_black,Residue
+ps_styrofoam,Residue
+sanitary,Residue
+steel_can,Valuable – Ferrous
+tetrapak_carton,Valuable – TetraPak
+weee,Residue
+wipe,Residue
